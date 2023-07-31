@@ -1,3 +1,4 @@
+// 
 /*
  * Catatan:
  * Gunakan fungsi goToHome() untuk menampilkan halaman home
